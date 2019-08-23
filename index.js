@@ -12,3 +12,9 @@ function johnLennonFacts(facts) {
     facts[i] = `${facts[i]}!!!`;
   }
 }
+
+function iLoveTheBeatles(num) {
+  var arr = [];
+  
+  return arr;
+}
